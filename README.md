@@ -1,4 +1,11 @@
-### Hi there 👋
+# Rojoser Public Repo
+
+Hello! My name is Agustin Rojo and this is my public repository where you can find some of the projects I have worked on.
+
+# About me
+
+:university: I am a Data Scientist and Mechanical Engineer 
+
 
 <!--
 **Rojoser/Rojoser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
